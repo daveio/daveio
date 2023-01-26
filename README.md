@@ -1,6 +1,6 @@
 # 🏳️‍⚧️ ➡️ ❄️
 
-  - Mastodon: <a rel="me" href="https://basilisk.gallery/@dave">@dave@basilisk.gallery</a>
+  - Mastodon: <a rel="me" href="https://basilisk.gallery/@dave">@dave @ basilisk.gallery</a>
   - Twitter: <a rel="me" href="https://twitter.com/syn">@syn</a>
   - More: <a rel="me" href="https://dave.io">https://dave.io</a>
 
