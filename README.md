@@ -13,3 +13,7 @@ Go. A workspace switching tool to hop between working environments - env vars an
 ### [`belt`](https://github.com/daveio/belt)
 
 Python. Multipurpose command-line utility belt.
+
+### [`webdummy`](https://github.com/daveio/webdummy)
+
+Docker. Dummy HTTP backend container.
