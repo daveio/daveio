@@ -4,16 +4,12 @@
 
 ### [`aaisp-exporter`](https://github.com/daveio/aaisp-exporter)
 
-Prometheus exporter for AAISP line metrics
-
-### [`belt`](https://github.com/daveio/belt)
-
-Multipurpose command-line utility belt
-
-### [`gcea`](https://github.com/daveio/gcea)
-
-A tool to get put.io to convert all files to a browser-streamable format ahead of time.
+Go. Prometheus exporter for AAISP line metrics.
 
 ### [`ws`](https://github.com/daveio/ws)
 
-A workspace switching tool to hop between working environments - env vars and similar.
+Go. A workspace switching tool to hop between working environments - env vars and similar.
+
+### [`belt`](https://github.com/daveio/belt)
+
+Python. Multipurpose command-line utility belt.
