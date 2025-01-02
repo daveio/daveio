@@ -2,18 +2,18 @@
 
 ## Released software
 
-### [`aaisp-exporter`](https://github.com/daveio/aaisp-exporter)
+### [`webdummy`](https://github.com/daveio/webdummy): Docker
 
-Go. Prometheus exporter for AAISP line metrics.
+Dummy HTTP backend container.
 
-### [`ws`](https://github.com/daveio/ws)
+### [`aaisp-exporter`](https://github.com/daveio/aaisp-exporter): Go
 
-Go. A workspace switching tool to hop between working environments - env vars and similar.
+Prometheus exporter for AAISP line metrics.
 
-### [`belt`](https://github.com/daveio/belt)
+### [`ws`](https://github.com/daveio/ws): Go
 
-Python. Multipurpose command-line utility belt.
+A workspace switching tool to hop between working environments - env vars and similar.
 
-### [`webdummy`](https://github.com/daveio/webdummy)
+### [`belt`](https://github.com/daveio/belt): Python
 
-Docker. Dummy HTTP backend container.
+Multipurpose command-line utility belt.
