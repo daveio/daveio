@@ -1,7 +1,5 @@
 # Dave Williams
 
----
-
 ## 🚀 Multipurpose nerd from London, UK
 
 - 🌱 Learning [**`rust-lang/rust`**](https://github.com/rust-lang/rust).
