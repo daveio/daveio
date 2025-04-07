@@ -8,15 +8,11 @@
 
 ![daveio](https://komarev.com/ghpvc/?username=daveio&color=dc143c&abbreviated=true&label=Ego-boosting+Counter)
 
----
-
 ## 💼 I'm looking for work
 
 If you're after a **senior DevOps engineer** or something similar, you can grab my CV from [**cv.dave.io**](https://cv.dave.io). It includes contact details and details of my experience.
 
 It's a **Notion document** - so if you use **Notion**, you can clone it right into your workspace.
-
----
 
 ## ⚒️ Languages, Frameworks, Platforms, and Tools
 
