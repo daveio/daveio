@@ -4,11 +4,19 @@
 
 Want my social links and CV?
 
+This script will detect what you have installed and use it. You'll get the script if you use `curl` or `wget`. A browser will get the site.
+
+```sh
+curl https://dave.io | sh
+```
+
+Or use a JavaScript packager - `bun x`, `deno run`, `pnpm dlx`, or `npx`.
+
 ```sh
 npx dave.io
 ```
 
-Don't have `npx`? You can use `pnpm dlx` or `bun x`. Or you can use Docker.
+Or you can use Docker.
 
 ```sh
 docker run --rm -it ghcr.io/daveio/npm:latest
