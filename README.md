@@ -2,9 +2,16 @@
 
 ## 👋 Hi, I'm Dave
 
+Want my social links and CV?
+
 ```sh
-# Want my social links and CV?
 npx dave.io
+```
+
+Don't have `npx`? You can use `pnpm dlx` or `bun x`. Or you can use Docker.
+
+```sh
+docker run --rm -it ghcr.io/daveio/npm:latest
 ```
 
 ## 🚀 Multipurpose nerd from London, UK
