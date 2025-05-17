@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Dave
 
-Want my social links and CV?
+### Want my social links and CV?
 
 This script will detect what you have installed and use it. You'll get the script if you use `curl` or `wget`. A browser will get the site.
 
