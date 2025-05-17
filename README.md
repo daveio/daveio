@@ -1,5 +1,12 @@
 # Dave Williams
 
+## 👋 Hi, I'm Dave
+
+```sh
+# Want my social links and CV?
+npx dave.io
+```
+
 ## 🚀 Multipurpose nerd from London, UK
 
 - 🌱 Learning [**`rust-lang/rust`**](https://github.com/rust-lang/rust).
