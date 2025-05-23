@@ -17,6 +17,12 @@ curl https://dave.io | sh
 
 ![daveio](https://komarev.com/ghpvc/?username=daveio&color=dc143c&abbreviated=true&label=Ego-boosting+Counter)
 
+## 💼 Looking for Work
+
+If you're after a **senior DevOps engineer** or something similar, you can grab my CV from **[cv.dave.io](https://cv.dave.io)**. It includes contact details and details of my experience.
+
+It's a **[Notion](https://notion.so)** document - so if you use **[Notion](https://notion.so)**, you can clone it right into your workspace.
+
 ## 👷🏻 Active Projects
 
 ### 🕸️ Web
@@ -49,12 +55,6 @@ curl https://dave.io | sh
 | [`belt`](https://github.com/daveio/belt)     | **Python**   | CLI toolbox                        |
 | [`hubbit`](https://github.com/daveio/hubbit) | **Go**       | Git manager and binary downloader  |
 | [`jig`](https://github.com/daveio/jig)       | **Rust**     | Development environment management |
-
-## 💼 Looking for Work
-
-If you're after a **senior DevOps engineer** or something similar, you can grab my CV from **[cv.dave.io](https://cv.dave.io)**. It includes contact details and details of my experience.
-
-It's a **[Notion](https://notion.so)** document - so if you use **[Notion](https://notion.so)**, you can clone it right into your workspace.
 
 ## ⚒️ Languages, Frameworks, Platforms, and Tools
 
