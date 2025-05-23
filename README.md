@@ -44,11 +44,11 @@ curl https://dave.io | sh
 
 ### 💻 CLI
 
-| Project                                      | Technologies | Description                             |
-| -------------------------------------------- | ------------ | --------------------------------------- |
-| [`belt`](https://github.com/daveio/belt)     | **Python**   | CLI toolbox                             |
-| [`hubbit`](https://github.com/daveio/hubbit) | **Go**       | Git manager and binary downloader       |
-| [`jig`](https://github.com/daveio/jig)       | **Rust**     | Development environment management tool |
+| Project                                      | Technologies | Description                        |
+| -------------------------------------------- | ------------ | ---------------------------------- |
+| [`belt`](https://github.com/daveio/belt)     | **Python**   | CLI toolbox                        |
+| [`hubbit`](https://github.com/daveio/hubbit) | **Go**       | Git manager and binary downloader  |
+| [`jig`](https://github.com/daveio/jig)       | **Rust**     | Development environment management |
 
 ## 💼 Looking for Work
 
