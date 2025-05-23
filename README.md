@@ -1,6 +1,6 @@
 # Dave Williams
 
-## 👋 Hi, I'm Dave
+## 🧑🏻‍🎤 Hi, I'm Dave
 
 ### Want my social links and CV?
 
@@ -14,6 +14,7 @@ curl https://dave.io | sh
 
 - 🌱 Learning [**`rust-lang/rust`**](https://github.com/rust-lang/rust).
 - 🏗️ Focusing on [**`daveio/genderbase`**](https://github.com/daveio/genderbase).
+- 👷🏻 Also see [my other active projects](ACTIVE.md).
 - 📫 Contact details available on [**dave.io**](https://dave.io) or [**cv.dave.io**](https://cv.dave.io).
 
 ![daveio](https://komarev.com/ghpvc/?username=daveio&color=dc143c&abbreviated=true&label=Ego-boosting+Counter)
