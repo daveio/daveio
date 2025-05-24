@@ -28,20 +28,20 @@ It's a **[Notion](https://notion.so)** document - so if you use **[Notion](https
 
 ### 🕸️ Web
 
-| Project                                              | Technologies               | Description                               |
-| ---------------------------------------------------- | -------------------------- | ----------------------------------------- |
-| [`dave.io`](https://github.com/daveio/dave.io)       | **TypeScript**, **Vue.js** | Personal website                          |
-| [`genderbase`](https://github.com/daveio/genderbase) | **Ruby**, **JavaScript**   | Learn and get answers about gender issues |
-| [`multipost`](https://github.com/daveio/multipost)   | **Ruby**, **JavaScript**   | Multiplatform social media posting        |
+| Project                                              | Technologies                | Description                                   |
+| ---------------------------------------------------- | --------------------------- | --------------------------------------------- |
+| [`dave.io`](https://github.com/daveio/dave.io)       | **TypeScript**, **Vue.js**  | Personal website                              |
+| [`genderbase`](https://github.com/daveio/genderbase) | **Ruby**, **JavaScript**    | Learn and get answers about gender issues     |
+| [`gistpad`](https://github.com/daveio/gistpad)       | **TypeScript**, **Nuxt.js** | Blog platform using GitHub Gists as a backend |
+| [`multipost`](https://github.com/daveio/multipost)   | **Ruby**, **JavaScript**    | Multiplatform social media posting            |
 
 ### ☁️ Cloudflare Workers
 
-| Project                                                    | Technologies   | Description                        |
-| ---------------------------------------------------------- | -------------- | ---------------------------------- |
-| [`api.dave.io`](https://github.com/daveio/api.dave.io)     | **TypeScript** | Multipurpose personal API          |
-| [`feeds.dave.io`](https://github.com/daveio/feeds.dave.io) | **TypeScript** | Personal feeds for Bluesky         |
-| [`go.dave.io`](https://github.com/daveio/go.dave.io)       | **TypeScript** | URL redirect service               |
-| [`sharecraft`](https://github.com/daveio/sharecraft)       | **TypeScript** | Social media preview customization |
+| Project                                                | Technologies   | Description                                            |
+| ------------------------------------------------------ | -------------- | ------------------------------------------------------ |
+| [`api.dave.io`](https://github.com/daveio/api.dave.io) | **TypeScript** | Multipurpose personal API                              |
+| [`go.dave.io`](https://github.com/daveio/go.dave.io)   | **TypeScript** | URL redirect service (to be merged with `api.dave.io`) |
+| [`sharecraft`](https://github.com/daveio/sharecraft)   | **TypeScript** | Social media preview customization                     |
 
 ### 📱 Mobile
 
