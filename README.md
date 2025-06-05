@@ -12,7 +12,7 @@ curl https://dave.io | sh
 
 - 🌱 Learning **[`rust-lang/rust`](https://github.com/rust-lang/rust)**.
 - 📫 Contact details available on **[dave.io](https://dave.io)** or **[cv.dave.io](https://cv.dave.io)**
-- 🦴 Want some of my retired code? Head to **[the `boneyard` directory in `myriad`](https://github.com/daveio/myriad/boneyard)**.
+- 🦴 Want some of my retired code? Head to **[the `boneyard` directory in `myriad`](https://github.com/daveio/myriad/tree/main/boneyard)**.
 
 ![daveio](https://komarev.com/ghpvc/?username=daveio&color=dc143c&abbreviated=true&label=Ego-boosting+Counter)
 
