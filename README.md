@@ -35,11 +35,11 @@ It's a **[Notion](https://notion.so)** document - so if you use **[Notion](https
 
 ### ☁️ Cloudflare Workers
 
-| Project                                                | Technologies   | Description                                            |
-| ------------------------------------------------------ | -------------- | ------------------------------------------------------ |
-| [`api.dave.io`](https://github.com/daveio/api.dave.io) | **TypeScript** | Multipurpose personal API                              |
-| [`go.dave.io`](https://github.com/daveio/go.dave.io)   | **TypeScript** | URL redirect service (to be merged with `api.dave.io`) |
-| [`sharecraft`](https://github.com/daveio/sharecraft)   | **TypeScript** | Social media preview customization                     |
+| Project                                                    | Technologies   | Description                          |
+| ---------------------------------------------------------- | -------------- | ------------------------------------ |
+| [`dave-io`](https://github.com/daveio/dave-io)             | **TypeScript** | Personal website and API backend     |
+| [`ambio-systems`](https://github.com/daveio/ambio-systems) | **TypeScript** | Holding page for something exciting! |
+| [`sharecraft`](https://github.com/daveio/sharecraft)       | **TypeScript** | Social media preview customization   |
 
 ### 📱 Mobile
 
