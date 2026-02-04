@@ -16,7 +16,7 @@ lint:
     - renovate
   enabled:
     - actionlint@1.7.8
-    - checkov@3.2.499
+    - checkov@3.2.500
     - git-diff-check
     - markdownlint@0.47.0
     - prettier@3.8.1
